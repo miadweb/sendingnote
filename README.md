@@ -7,6 +7,7 @@ This is small app for sending a notes to someone, technologies used are
 - [Tailwindcss](https://tailwindcss.com). 
 - [Alpinejs](https://alpinejs.dev/). 
 - [Wire ui](https://v1.wireui.dev). 
-- [Deployed to fly.io](https://fly.io/). 
-- [The email delivery used](https://postmarkapp.com/). 
+- Deployment [Vapor](https://vapor.com/). with AWSß
+- Email delivery[Postmarkapp](https://postmarkapp.com/). 
+- Authentication [Laravel Socialite](https://https://laravel.com/docs/11.x/socialite). 
 
